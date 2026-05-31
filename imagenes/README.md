@@ -1,5 +1,3 @@
-# Mi Biografía
+# Tareas Plataformas Abiertas
 
-**Nombre completo:** David Quesada Mata
-**Edad:** 32
-**Carrera:** Ingeniería Informática
+*Nombre del estudiante:* David Quesada Mata
